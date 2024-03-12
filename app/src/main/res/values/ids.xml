@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="itemHeadLinkError" type="id" />
+    <item name="action_headlinesFragment_to_articleFragment" type="id" />
+    <item name="action_favouriteFragment_to_articleFragment" type="id" />
+    <item name="action_searchFragment_to_articleFragment" type="id" />
+</resources>
